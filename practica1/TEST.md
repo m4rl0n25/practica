@@ -15,4 +15,10 @@
 - Escaneo de IaC (escaneo de código de Terraform y HelmChart para detectar errores de configuración)
 - Escaneo de infraestructura
 - Comprobación de cumplimiento
+  
 ![Diagrama DevSecOps](DevSecOps-pipeline.png)
+
+![Diagrama DevSecOps](https://owasp.org/www-project-devsecops-guideline/)
+
+![Diagrama DevSecOps](https://www.youtube.com/watch?v=vf9Waxh3I04)
+
