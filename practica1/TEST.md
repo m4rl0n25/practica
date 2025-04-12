@@ -20,7 +20,7 @@
   
 ![Diagrama DevSecOps](DevSecOps-pipeline.png)
 
-![Diagrama DevSecOps](https://owasp.org/www-project-devsecops-guideline/)
+[pagina owasp](https://owasp.org/www-project-devsecops-guideline/)
 
-![Diagrama DevSecOps](https://www.youtube.com/watch?v=vf9Waxh3I04)
+[video owasp](https://www.youtube.com/watch?v=vf9Waxh3I04)
 
