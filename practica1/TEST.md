@@ -15,6 +15,8 @@
 - Escaneo de IaC (escaneo de código de Terraform y HelmChart para detectar errores de configuración)
 - Escaneo de infraestructura
 - Comprobación de cumplimiento
+
+---
   
 ![Diagrama DevSecOps](DevSecOps-pipeline.png)
 
