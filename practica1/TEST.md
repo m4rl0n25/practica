@@ -17,6 +17,10 @@
 - Comprobación de cumplimiento
 
 ---
+
+> **"La seguridad no es un producto, es un proceso." - Bruce Schneier**
+
+---
   
 ![Diagrama DevSecOps](DevSecOps-pipeline.png)
 
