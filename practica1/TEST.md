@@ -8,9 +8,9 @@
 ### En primer lugar, consideramos implementar los siguientes pasos en una tubería básica:
 
 ### Escanee los repositorios Git para encontrar posibles fugas de credenciales.
-SAST (Prueba de seguridad de aplicaciones estáticas)
-SCA (Análisis de composición de software)
-IAST (Pruebas de seguridad de aplicaciones interactivas)
+- SAST (Prueba de seguridad de aplicaciones estáticas)
+- SCA (Análisis de composición de software)
+- IAST (Pruebas de seguridad de aplicaciones interactivas)
 DAST (Prueba de seguridad de aplicaciones dinámicas)
 Escaneo de IaC (escaneo de código de Terraform y HelmChart para detectar errores de configuración)
 Escaneo de infraestructura
